@@ -1,3 +1,3 @@
 # openSourceExploratory
 ## List of contributers
-- Vansh
+- Vansh Singh
